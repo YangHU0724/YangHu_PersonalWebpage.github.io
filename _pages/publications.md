@@ -1,7 +1,7 @@
 ---
-title: "Yamazaki Lab - Publications"
+title: "Menaka Revel - Publications"
 layout: pagelay
-excerpt: "Yamazaki Lab -- Publications."
+excerpt: "Menaka Revel -- Publications."
 sitemap: false
 permalink: /publications/
 ---
