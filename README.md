@@ -1,8 +1,9 @@
-# Yamazaki Lab Website
+# Menaka Revel Website on Github
 
-This is the website of our academic research group Global Hydrodynamics Lab at The University of Tokyo.
+THis is the personal website of Menaka Revel.
 
-The copyright of the contents is held by Yamazaki lab. 
+The copyright of the contents is held by Menaka Revel. 
+
 The code and design of this webpage based on those by Allan Lab @ Leiden University, with minor modifications by Yamazaki Lab.
 
 The modified code for our webpage is released under the MIT license. The original code is also distributed by Allan lab (see below).
@@ -16,4 +17,3 @@ This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to mak
 Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
 
 Copyright Allan Lab. Code released under the MIT License.
-
