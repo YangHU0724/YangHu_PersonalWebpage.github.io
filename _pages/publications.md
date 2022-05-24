@@ -31,7 +31,7 @@ For a full publication list, see [below](#full-list) or go to [Google Scholar](h
 
 <p> &nbsp; </p>
 
-### == Original Papers (collaboration, reviewed) ==
+### Original Papers (collaboration, reviewed)
 
 {% for publi in site.data.publist %}
 {% if publi.rlab == 0 %}
@@ -43,7 +43,7 @@ For a full publication list, see [below](#full-list) or go to [Google Scholar](h
 
 <p> &nbsp; </p>
 
-### == Conference Proceeding (reviewed)==
+### Conference Proceeding (reviewed)
 
 {% for publi in site.data.publist %}
 {% if publi.rlab == 2 %}
