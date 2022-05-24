@@ -1,4 +1,9 @@
 ---
+title: "Menaka Revel - About Me"
+layout: pagelay
+excerpt: "Menaka Revel -- About Me."
+sitemap: false
+permalink: /aboutme/
 ---
 ## Affiliation
 
