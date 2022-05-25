@@ -1,5 +1,16 @@
 ## Publication list
 # FY2022
+- ID: P8)
+  title: "Prospects of Assimilating Remote Sensing Data into a Hydrodynamic Model in Amazon Basin"
+  image:
+  authors: "Revel, M., Yamazaki, D., & Kanae, S."
+  description: "[A-CG45] Water and sediment dynamics from land to coastal zones"
+  link:
+    url: https://confit.atlas.jp/guide/event/jpgu2022/session/ACG45_26AM2/tables?KlgYzDVKtS
+    display: "JpGU (Japan Geoscience Union) Meeting, Mukhari, Japan, May 2022"
+  highlight: 0
+  rlab: 2
+  news2:
 - ID: C2)
   title: "Correction of river bathymetry parameters using the stage-discharge rating curve"
   image:
