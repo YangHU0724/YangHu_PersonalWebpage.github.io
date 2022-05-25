@@ -24,6 +24,16 @@
   highlight: 1
   rlab: 1
   news2:
+- ID: P6)
+  title: "Potential of Assimilating Satellite Altimetry Data in to a Continental-Scale River Routing Model"
+  image:
+  authors: "Revel, M., Ikeshima, D., Yamazaki, D., & Kanae, S."
+  description: "H15S: Surface Water Hydrology from SWOT, NISAR, and ICESat-2"
+    url:  https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/936579
+    display: "AGU (American Geophysical Union) Fall Meeting, Online Everywhere, December 2021"
+  highlight: 0
+  rlab: 2
+  news2:
 # FY2021
 # FY2020
 - ID: C1)
@@ -36,6 +46,16 @@
     display: "Journal of Japan Society of Civil Engineers, Ser. B1 (Hydraulic Engineering), 76(2), I_109-I_114,https://doi.org/10.2208/jscejhe.76.2_I_109,2020"
   highlight: 0
   rlab: 0
+  news2:
+- ID: P6)
+  title: "Estimating River Discharge by Assimilating SWOT Observations using a Physically Based Empirical Localization Method"
+  image:
+  authors: "Revel, M., Ikeshima, D., Yamazaki, D., & Kanae, S."
+  description: "H040: The Surface Water and Ocean Topography (SWOT) Mission: Hydrology and Oceanography and Their Interaction at the Estuaries II Posters"
+    url:  https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/688267
+    display: "AGU (American Geophysical Union) Fall Meeting, Online Everywhere, December 2020"
+  highlight: 0
+  rlab: 2
   news2:
 # FY2020
 # FY2019
@@ -74,8 +94,40 @@
   highlight: 0
   rlab: 1
   news2:
+- ID: P5)
+  title: "Assimilation of Synthetic SWOT Observations to Improve Global River Bathymetry Using Local Ensemble Transform Kalman Filter"
+  image:
+  authors: "Revel, M., Yamazaki, D., & Kanae, S."
+  description: "OS53C: Surface Water and Ocean Topography (SWOT) Mission: Oceanography, Hydrology, and Their Interaction at the Estuaries Posters"
+    url:  https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/344265
+    display: "AGU (American Geophysical Union) Fall Meeting, Washington, December 2018"
+  highlight: 0
+  rlab: 2
+  news2:
 # FY2018
+# FY2017
+ ID: P4)
+  title: "Seasonal Responses of Pacific Japan Teleconnection on Indo-China Peninsula"
+  image:
+  authors: "Revel, M., Utsumi, N., Yoshikawa, S., & Kanae, S."
+  description: "[A-CG44] [EE] Asian monsoon hydro-climate and water resources research for GEWEX"
+    url:  https://confit.atlas.jp/guide/event/jpguagu2017/subject/E_ACG44-P08/advanced
+    display: "JpGU-AGU (Japan Geophysical Union - American Geophysical Union) Joint Meeting, Makuhari Messe, Chiba, May 2017"
+  highlight: 0
+  rlab: 2
+  news2:
+# FY2017
 # FY2016
+ ID: P3)
+  title: "Contribution of Pacific Japan Teleconnection to Different Weather Systems in Thailand Monsoon Domain"
+  image:
+  authors: "Revel, M., Utsumi, N., Yoshikawa, S., & Kanae, S."
+  description: "Session ID : P17"
+    url:  https://doi.org/10.11520/jshwr.29.0_69
+    display: "Proceedings of 2016 Annual Conference, Japan Society of Hydrology and Water Resources, Fukushima, September 2016,  https://doi.org/10.11520/jshwr.29.0_69"
+  highlight: 0
+  rlab: 2
+  news2:
 - ID: P2)
   title: "Predictability of Seasonal Precipitation Intensities Associated with Tropical Cyclones and Disturbances in Indo-China Region"
   image:
