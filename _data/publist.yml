@@ -29,7 +29,8 @@
   image:
   authors: "Revel, M., Ikeshima, D., Yamazaki, D., & Kanae, S."
   description: "H15S: Surface Water Hydrology from SWOT, NISAR, and ICESat-2"
-    url:  https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/936579
+  link:
+    url: https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/936579
     display: "AGU (American Geophysical Union) Fall Meeting, Online Everywhere, December 2021"
   highlight: 0
   rlab: 2
@@ -52,7 +53,7 @@
   image:
   authors: "Revel, M., Ikeshima, D., Yamazaki, D., & Kanae, S."
   description: "H040: The Surface Water and Ocean Topography (SWOT) Mission: Hydrology and Oceanography and Their Interaction at the Estuaries II Posters"
-    url:  https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/688267
+    url: https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/688267
     display: "AGU (American Geophysical Union) Fall Meeting, Online Everywhere, December 2020"
   highlight: 0
   rlab: 2
@@ -99,7 +100,7 @@
   image:
   authors: "Revel, M., Yamazaki, D., & Kanae, S."
   description: "OS53C: Surface Water and Ocean Topography (SWOT) Mission: Oceanography, Hydrology, and Their Interaction at the Estuaries Posters"
-    url:  https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/344265
+    url: https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/344265
     display: "AGU (American Geophysical Union) Fall Meeting, Washington, December 2018"
   highlight: 0
   rlab: 2
@@ -111,7 +112,7 @@
   image:
   authors: "Revel, M., Utsumi, N., Yoshikawa, S., & Kanae, S."
   description: "[A-CG44] [EE] Asian monsoon hydro-climate and water resources research for GEWEX"
-    url:  https://confit.atlas.jp/guide/event/jpguagu2017/subject/E_ACG44-P08/advanced
+    url: https://confit.atlas.jp/guide/event/jpguagu2017/subject/E_ACG44-P08/advanced
     display: "JpGU-AGU (Japan Geophysical Union - American Geophysical Union) Joint Meeting, Makuhari Messe, Chiba, May 2017"
   highlight: 0
   rlab: 2
@@ -123,7 +124,7 @@
   image:
   authors: "Revel, M., Utsumi, N., Yoshikawa, S., & Kanae, S."
   description: "Session ID : P17"
-    url:  https://doi.org/10.11520/jshwr.29.0_69
+    url: https://doi.org/10.11520/jshwr.29.0_69
     display: "Proceedings of 2016 Annual Conference, Japan Society of Hydrology and Water Resources, Fukushima, September 2016,  https://doi.org/10.11520/jshwr.29.0_69"
   highlight: 0
   rlab: 2
