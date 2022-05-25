@@ -15,8 +15,8 @@ Global Hydrodynamics Lab, Global Hydrology and Water Resources Engineering Labor
 
 #### Doctor of Philosophy   
 ##### September 2019. 
-Department of Civil and Environmental Engineering, Graduate School of Environment and Society, Tokyo Institute of Technology, Tokyo, Japan. 
-A Study on the Assimilation of Swath Altimetry Data into a Global Hydrodynamic Model(http://hydro.iis.u-tokyo.ac.jp/~menaka/doc/Menaka_Dthesis.pdf).  
+[Department of Civil and Environmental Engineering, Graduate School of Environment and Society, Tokyo Institute of Technology, Tokyo, Japan] ("https://www.titech.ac.jp/english"). 
+[A Study on the Assimilation of Swath Altimetry Data into a Global Hydrodynamic Model]("http://hydro.iis.u-tokyo.ac.jp/~menaka/doc/Menaka_Dthesis.pdf").  
 
 #### Master of Engineering
 ##### September 2016
@@ -45,6 +45,6 @@ Lanka Hydraulic Institute (LHI), Katubadda, Sri Lanka.
 
 ### Membership of Scholarly Societies  
 #### International  
-American Geophysical Union (December 2015–present). 
-Japan Geoscience Union (Apr 2017–present). 
-Japan Society of Civil Engineers (Sep 2015–present).     
+American Geophysical Union (December 2015–present).   
+Japan Geoscience Union (Apr 2017–present).   
+Japan Society of Civil Engineers (Sep 2015–present).       
