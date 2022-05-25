@@ -75,6 +75,30 @@
   rlab: 1
   news2:
 # FY2018
+# FY2016
+- ID: P2)
+  title: "Predictability of Seasonal Precipitation Intensities Associated with Tropical Cyclones and Disturbances in Indo-China Region"
+  image:
+  authors: "Revel, M., Utsumi, N., Yoshikawa, S., & Kanae, S."
+  description: "A33J Subseasonal to Seasonal Forecasting of High-Impact Weather and Climate Events I Posters"
+  link:
+    url: https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/197732
+    display: "AGU (American Geophysical Union) Fall Meeting, San Francisco, December 2016"
+  highlight: 0
+  rlab: 2
+  news2:
+- ID: P1)
+  title: "The Impact of PJ Index on the Different Precipitation Providing Weather Systems in Indo China Region"
+  image:
+  authors: "Revel, M., Utsumi, N., Yoshikawa, S., & Kanae, S."
+  description: "A33J Subseasonal to Seasonal Forecasting of High-Impact Weather and Climate Events I Posters"
+  link:
+    url: http://tmu-rao.jp/wp/wp-content/uploads/2015/11/c4b1a9047021a17ae82beb0e3cb07946.pdf
+    display: "Proceedings of The International Science Conference on MAHASRI, Tokyo Metropolitan University, Tokyo, March 2016"
+  highlight: 0
+  rlab: 2
+  news2:
+# FY2016
 # FY2014
 - ID: R1)
   title: "Experimental Investigation of Sediment Trap Efficiency in Reservoirs"
