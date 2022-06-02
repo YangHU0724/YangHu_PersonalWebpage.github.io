@@ -14,7 +14,10 @@ Please visit Global Hydrodynamics Lab [here]("https://global-hydrodynamics.githu
 My major research intersts are in modelling water in global scale. Recenlty I have been working on data assimilation into hydrodynamic modeling using satellite altimetry data. I am also invloved on developing [CaMa-Flood]("https://github.com/global-hydrodynamics/CaMa-Flood_v4") hydrodynamic model for better representation of global fresh water.
 
   
-## Recent Updates 
+## Recent Updates
+### 2 June, 2022
+A co-authored paper was published in Remote Sensing of Environment, [How much inundation occurs in the Amazon River basin?](https://doi.org/10.1016/j.rse.2022.113099), led by [Ayan Santos Fleischmann](https://www.ufrgs.br/lsh/team/phd-students/ayan-santos-fleischmann/). In this study we comapre 29 inundation datasets from remote sensing/hydrological modeling. The intecomparison can be viewed in [WebGIS application](https://amazon-inundation.herokuapp.com/).
+
 ### 29 Mar, 2022
 A Journal paper has been published in Water Resourses Reasearch. [Correction of river bathymetry parameters using the stage-discharge rating curve]("https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR031226"), A method to correct river bathymetry parameter using satellite and insitu data using stage-discharge relationship was prposed.
          
