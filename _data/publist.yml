@@ -1,5 +1,16 @@
 ## Publication list
 # FY2022
+- ID: C3)
+  title: "How much inundation occurs in the Amazon River basin?"
+  image:
+  authors: "Santos Fleischmann, A., Papa, F., Fassoni-Andrade, A., Melack, J. M., Wongchuig, S., Paiva, R. C. D. de, et al."
+  description:
+  link:
+    url: https://doi.org/10.1016/j.rse.2022.113099
+    display: "Remote Sensing of Environment, 278(May), 113099. https://doi.org/10.1016/j.rse.2022.113099, 2020"
+  highlight: 0
+  rlab: 0
+  news2:
 - ID: P8)
   title: "Prospects of Assimilating Remote Sensing Data into a Hydrodynamic Model in Amazon Basin"
   image:
