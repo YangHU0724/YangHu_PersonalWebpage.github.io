@@ -15,6 +15,9 @@ My major research intersts are in modelling water in global scale. Recenlty I ha
 
   
 ## Recent Updates
+### 15 Aug, 2022
+A co-authored paper was published in Water Resourses Reasearch, [Multivariable Integrated Evaluation of Hydrodynamic Modeling: A Comparison of Performance Considering Different Baseline Topography Data](https://doi.org/10.1029/2021WR031819), We developed a new method to integrate multiple variable for objective river model evaluation. 
+
 ### 2 June, 2022
 A co-authored paper was published in Remote Sensing of Environment, [How much inundation occurs in the Amazon River basin?](https://doi.org/10.1016/j.rse.2022.113099), led by [Ayan Santos Fleischmann](https://www.ufrgs.br/lsh/team/phd-students/ayan-santos-fleischmann/). In this study we comapre 29 inundation datasets from remote sensing/hydrological modeling. The intecomparison can be viewed in [WebGIS application](https://amazon-inundation.herokuapp.com/).
 
