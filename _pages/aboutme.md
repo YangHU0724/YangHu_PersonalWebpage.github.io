@@ -11,7 +11,7 @@ Global Hydrodynamics Lab, Global Hydrology and Water Resources Engineering Labor
 
 ## Education
 #### Doctor of Philosophy   
-##### September 2019. 
+##### September 2019.   
 [Department of Civil and Environmental Engineering, Graduate School of Environment and Society, Tokyo Institute of Technology, Tokyo, Japan]("https://www.titech.ac.jp/english"). 
 [A Study on the Assimilation of Swath Altimetry Data into a Global Hydrodynamic Model]("http://hydro.iis.u-tokyo.ac.jp/~menaka/doc/Menaka_Dthesis.pdf").  
 #### Master of Engineering
