@@ -1,5 +1,40 @@
 ## Publication list
+# FY2023
+- ID: R6)
+  title: "Assimilation of transformed water surface elevation to improve river discharge estimation in a continental-scale river"
+  image: Revel2023HESS.jpg
+  authors: "Revel, M., Ikeshima, D., Yamazaki, D., & Kanae, S."
+  description:
+  link:
+    url: https://doi.org/10.5194/hess-27-1-2023
+    display: "Hydrology and Earth System Sciences, 27, 1-25, https://doi.org/10.5194/hess-27-1-2023, 2023"
+  highlight: 1
+  rlab: 1
+  news2:
+# FY2023
 # FY2022
+- ID: P10)
+  title: "Global Discharge Estimation By Assimilating Satellite Altimetry with the Current Limitations of the Hydrodynamic Models in the perspective of SWOT mission"
+  image:
+  authors: "Revel, M., Zhou, X., Yamazaki, D., & Kanae, S."
+  description: "OS25C: The Surface Water and Ocean Topography (SWOT) Mission: A New Satellite for Earth's Water Cycle III Oral"
+  link:
+    url: https://eppro01.ativ.me/web/page.php?page=IntHtml&project=AGU22&id=p1137876
+    display: "AGU (American Geophysical Union) Fall Meeting, Online Everywhere, December 2022"
+  highlight: 0
+  rlab: 2
+  news2:
+- ID: P9)
+  title: "Ability of assimition of satellite altimetry to estimate river discharge"
+  image:
+  authors: "Revel, M., Zhou, X., Yamazaki, D., & Kanae, S."
+  description: "Society of Hydrology and Water Resources"
+  link:
+    url: 
+    display: "Hydrology and Water Resources Society, Annual Research Conference 2022"
+  highlight: 0
+  rlab: 2
+  news2:
 - ID: C4)
   title: "Multivariable Integrated Evaluation of Hydrodynamic Modeling: A Comparison of Performance Considering Different Baseline Topography Data"
   image:
