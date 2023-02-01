@@ -3,12 +3,12 @@
 - ID: R6)
   title: "Assimilation of transformed water surface elevation to improve river discharge estimation in a continental-scale river"
   image: Revel2023HESS.jpg
-  authors: "Revel, M., Ikeshima, D., Yamazaki, D., & Kanae, S."
+  authors: "Revel, M., Zhou, X., Yamazaki, D., & Kanae, S."
   description:
   link:
     url: https://doi.org/10.5194/hess-27-1-2023
     display: "Hydrology and Earth System Sciences, 27, 1-25, https://doi.org/10.5194/hess-27-1-2023, 2023"
-  highlight: 1
+  highlight: 0
   rlab: 1
   news2:
 # FY2023
