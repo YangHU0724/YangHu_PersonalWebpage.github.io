@@ -16,7 +16,7 @@ My major research intersts are in modelling water in global scale. Recenlty I ha
   
 ## Recent Updates
 ### 2 Feb, 2023
-A Journal paper has been published in Hydrology and Earth System Sciences. [Assimilation of transformed water surface elevation to improve river discharge estimation in a continental-scale river]("https://doi.org/10.5194/hess-27-647-2023"), Different methods were investigated to estimate river discharge by assimilating satellite altimetry.
+A Journal paper has been published in Hydrology and Earth System Sciences. [Assimilation of transformed water surface elevation to improve river discharge estimation in a continental-scale river](https://doi.org/10.5194/hess-27-647-2023), Different methods were investigated to estimate river discharge by assimilating satellite altimetry.
 
 ### 15 Aug, 2022
 A co-authored paper was published in Water Resourses Reasearch, [Multivariable Integrated Evaluation of Hydrodynamic Modeling: A Comparison of Performance Considering Different Baseline Topography Data](https://doi.org/10.1029/2021WR031819), We developed a new method to integrate multiple variable for objective river model evaluation. 
