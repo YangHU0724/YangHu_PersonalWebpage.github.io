@@ -1,5 +1,16 @@
 ## Publication list
 # FY2023
+- ID: C5)
+  title: "Increased floodplain inundation in the Amazon since 1980"
+  image:
+  authors: "Fleischmann, A., Papa, F., Hamilton, S. K., Fassoni-Andrade, A., Wongchuig, S., Espinoza, J. C., Paiva, R., Melack, J., Fluet-Chouinard, E., Castello, L., Almeida, R., Bonnet, M. P., Alves, L. G., Moreira, D., Yamazaki, D., Revel, M., & Collischonn, W."
+  description:
+  link:
+    url: https://doi.org/10.1088/1748-9326/acb9a7
+    display: "Environmental Research Letters, 11(20), 5035–5040. https://doi.org/10.1088/1748-9326/acb9a7, 2023"
+  highlight: 0
+  rlab: 0
+  news2:
 - ID: R6)
   title: "Assimilation of transformed water surface elevation to improve river discharge estimation in a continental-scale river"
   image: Revel2023HESS.jpg
@@ -41,8 +52,8 @@
   authors: "Modi, P., Revel, M., Yamazaki, D.,"
   description:
   link:
-    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR031819
-    display: "Water Resources Research, 58(8), doi: 10.1029/2021WR031819, 2022"
+    url: https://doi.org/10.1029/2021WR031819
+    display: "Water Resources Research, 58(8), https://doi.org/10.1029/2021WR031819, 2022"
   highlight: 0
   rlab: 0
   news2:
