@@ -13,7 +13,9 @@ Please visit Global Hydrodynamics Lab [here]("https://global-hydrodynamics.githu
 ## Research Intrests
 My major research intersts are in modelling water in global scale. Recenlty I have been working on data assimilation into hydrodynamic modeling using satellite altimetry data. I am also invloved on developing [CaMa-Flood]("https://github.com/global-hydrodynamics/CaMa-Flood_v4") hydrodynamic model for better representation of global fresh water.
 
-  
+### 7 Feb, 2023
+A co-authored letter was published in Environmental Research Letters, [Increased floodplain inundation in the Amazon since 1980](https://doi.org/10.1088/1748-9326/acb9a7), led by [Ayan Santos Fleischmann](https://www.ufrgs.br/lsh/team/phd-students/ayan-santos-fleischmann/). In this study we found that the annual maximum flood in Amazon incresed by 23% from 1980.
+
 ## Recent Updates
 ### 2 Feb, 2023
 A Journal paper has been published in Hydrology and Earth System Sciences. [Assimilation of transformed water surface elevation to improve river discharge estimation in a continental-scale river](https://doi.org/10.5194/hess-27-647-2023), Different methods were investigated to estimate river discharge by assimilating satellite altimetry.
