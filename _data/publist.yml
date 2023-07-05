@@ -1,5 +1,16 @@
 ## Publication list
 # FY2023
+- ID: C6)
+  title: "Res-CN (Reservoir dataset in China): hydrometeorological time series and landscape attributes across 3254 Chinese reservoirs"
+  image:
+  authors: "Shen, Y., Nielsen, K., Revel, M., Liu, D., & Yamazaki, D."
+  description:
+  link:
+    url: https://doi.org/10.5194/essd-15-2781-2023
+    display: "Earth System Science Data, 15, 2781–2808, https://doi.org/10.5194/essd-15-2781-2023, 2023"
+  highlight: 0
+  rlab: 0
+  news2:
 - ID: C5)
   title: "Increased floodplain inundation in the Amazon since 1980"
   image:
