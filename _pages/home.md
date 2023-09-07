@@ -7,11 +7,17 @@ permalink: /
 ---
 # Welcome!
 
-I am currently working as a Project Researcher in [Global Hydrodynamics Lab]("https://global-hydrodynamics.github.io/") in [Institute of Industrial Science]("https://www.iis.u-tokyo.ac.jp/en/"), [The University of Tokyo]("https://www.u-tokyo.ac.jp/en/"). In Global Hydrodynamics Lab, we are working on freshwater dynamics on a global scale using modeling, remote sensing, and model data integration. 
+Currently, I am working as a postdoctoral fellow at the [Department of Civil and Environmental Engineering, Faculty of Engineering, University of Waterloo]("https://uwaterloo.ca/civil-environmental-engineering/"). 
+
+Please visit the Hydrology group at the University of Waterloo [here]("https://uwaterloo.ca/scholar/btolson/people-0")
+
+I previously worked as a Project Researcher in [Global Hydrodynamics Lab]("https://global-hydrodynamics.github.io/") in [Institute of Industrial Science]("https://www.iis.u-tokyo.ac.jp/en/"), [The University of Tokyo]("https://www.u-tokyo.ac.jp/en/") from Oct 2019 to Aug 2023. In the Global Hydrodynamics Lab, we are working on freshwater dynamics on a global scale using modeling, remote sensing, and model data integration.
+
 Please visit Global Hydrodynamics Lab [here]("https://global-hydrodynamics.github.io/").
 
+
 ## Research Interests
-My primary research interests are in modeling water on a global scale. Recently I have been working on data assimilation into hydrodynamic modeling using satellite altimetry data. I am also involved in developing [CaMa-Flood]("https://github.com/global-hydrodynamics/CaMa-Flood_v4") hydrodynamic model for a better representation of global fresh water.
+My primary research interests are in modeling water on a large scale. Currently, I am working on observing Canadian lakes using the SWOT satellite. Previously, I have been working on data assimilation into hydrodynamic modeling using satellite altimetry data. I am also involved in developing [CaMa-Flood]("https://github.com/global-hydrodynamics/CaMa-Flood_v4") hydrodynamic model for a better representation of global fresh water.
 
 ## Recent Updates
 ### 5 July, 2023
