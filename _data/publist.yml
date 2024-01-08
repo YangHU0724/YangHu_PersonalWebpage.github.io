@@ -1,4 +1,16 @@
 ## Publication list
+# FY2024
+- ID: R6)
+  title: "AltiMaP: altimetry mapping procedure for hydrography data"
+  image: Revel2024ESSD.jpg
+  authors: "Revel, M., Zhou, X., Modi, P., Cretaux, J.-F., Calmant, S., & Yamazaki, D."
+  description:
+  link:
+    url: https://doi.org/10.5194/essd-16-75-2024
+    display: "Earth System Science Data, 16, 75-88, https://doi.org/10.5194/essd-16-75-2024, 2024"
+  highlight: 1
+  rlab: 1
+  news2:
 # FY2023
 - ID: C7)
   title: "Quantifying the relative contributions of climate change and ENSO to flood occurrence in Bangladesh"
