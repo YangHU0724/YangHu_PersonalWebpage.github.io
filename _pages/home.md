@@ -20,9 +20,12 @@ Please visit Global Hydrodynamics Lab [here]("https://global-hydrodynamics.githu
 My primary research interests are in modeling water on a large scale. Currently, I am working on observing Canadian lakes using the SWOT satellite. Previously, I have been working on data assimilation into hydrodynamic modeling using satellite altimetry data. I am also involved in developing [CaMa-Flood]("https://github.com/global-hydrodynamics/CaMa-Flood_v4") hydrodynamic model for a better representation of global fresh water.
 
 ## Recent Updates
+### 8 Jan, 2024
+A data description paper was published in Earth System Science Data, [AltiMaP: altimetry mapping procedure for hydrography data](https://doi.org/10.5194/essd-16-75-2024). In this study, we developed an automated method to allocate satellite altimetry data on rivers to global hydrodynamic models.
+
 ### 5 July, 2023
 A co-authored data description paper was published in Earth System Science Data, [Res-CN (Reservoir dataset in China): hydrometeorological time series and landscape attributes across 3254 Chinese reservoirs
-](https://doi.org/10.5194/essd-15-2781-2023). In this study, we develop the first database of consist of reservoir-catchment characteristics for 3254 Chinese reservoirs.
+](https://doi.org/10.5194/essd-15-2781-2023). In this study, we develop the first database consisting of reservoir-catchment characteristics for 3254 Chinese reservoirs.
 
 ### 7 Feb, 2023
 A co-authored letter was published in Environmental Research Letters, [Increased floodplain inundation in the Amazon since 1980](https://doi.org/10.1088/1748-9326/acb9a7), led by [Ayan Santos Fleischmann](https://www.ufrgs.br/lsh/team/phd-students/ayan-santos-fleischmann/). This study found that the annual maximum flood in Amazon increased by 23% from 1980.
