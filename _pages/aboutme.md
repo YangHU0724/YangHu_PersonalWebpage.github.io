@@ -6,8 +6,8 @@ sitemap: false
 permalink: /aboutme/
 ---
 ## Affiliation
-#### Project Researcher
-Global Hydrodynamics Lab, Global Hydrology and Water Resources Engineering Laboratory, Institute of Industrial Science, The University of Tokyo
+#### Research Fellow
+Department of Civil and Environmental Engineering, University of Waterloo, Canada
 
 ## Education
 #### Doctor of Philosophy   
@@ -19,17 +19,20 @@ Global Hydrodynamics Lab, Global Hydrology and Water Resources Engineering Labor
 Department of Civil Engineering, Graduate School of Science and Engineering, Tokyo Institute of Technology, Tokyo, Japan.
 #### Bachelor of Science in Engineering
 ##### May 2013
-Department of Civil Engineering, Faculty of Enginnering Engineering, University of Peradeniya, Kandy, Sri Lanka.
+Department of Civil Engineering, Faculty of Engineering Engineering, University of Peradeniya, Kandy, Sri Lanka.
 
 ## Professional Experience (Full time)
+#### Research Fellow
+##### September 2023 to present
+[Department of Civil and Environmental Engineering, University of Waterloo, Canada]("https://uwaterloo.ca/civil-environmental-engineering/")
 #### Project Researcher 
-##### October 2019 to present  
+##### October 2019 to 2023  
 [Global Hydrology and Water Resources Engineering Laboratory, Institute of Industrial Science (IIS), The University of Tokyo, Japan]("https://global-hydrodynamics.github.io/"). 
 #### Temporary Lecturer  
 ##### July 2013 to July 2014  
-[Department of Civil Engineering, Faculty of Enginnering Engineering, University of Peradeniya, Kandy, Sri Lanka]("https://www.pdn.ac.lk/").  
+[Department of Civil Engineering, Faculty of Engineering Engineering, University of Peradeniya, Kandy, Sri Lanka]("https://www.pdn.ac.lk/").  
 
-## Professional Experience (Part time)  
+## Professional Experience (Part-time)  
 #### Internship Researcher  
 ##### December 2018 to February 2019  
 [National Institute of Environmental Studies (NIES), Tsukuba, Japan]("https://www.nies.go.jp/index-e.html"). 
@@ -39,6 +42,7 @@ Department of Civil Engineering, Faculty of Enginnering Engineering, University 
 
 ## Membership of Scholarly Societies  
 #### International  
+Canadian Geophysical Union (May 2024–present)
 American Geophysical Union (December 2015–present).  
 Japan Geoscience Union (Apr 2017–present).  
 Japan Society of Civil Engineers (Sep 2015–present).   
