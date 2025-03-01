@@ -28,9 +28,9 @@ Department of Geography and Planning, Sun-Yat Sen Univeristy, Guangzhou, China.
 [Global Hydrology and Water Resources Engineering Laboratory, Institute of Industrial Science (IIS), The University of Tokyo, Japan]("https://global-hydrodynamics.github.io/"). 
 
 ## Research Visit  
-##### Uppsala University, Uppsala, Sweden  
+#### Uppsala University, Uppsala, Sweden  
 Host: Prof. Giuliano Di Baldassarre,  Department of Earth Sciences, March 2024
-##### University of Arizona, Tucson, United States  
+#### University of Arizona, Tucson, United States  
 Host: Prof. Beth Tellman, Social[Pixel] Lab, June 2024
  
   
