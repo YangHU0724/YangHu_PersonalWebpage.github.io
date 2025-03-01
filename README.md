@@ -1,4 +1,4 @@
-# Menaka Revel Website on Github
+# Yang Hu Website on Github
 
 THis is the personal website of Yang Hu.
 
