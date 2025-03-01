@@ -1,8 +1,8 @@
 # Menaka Revel Website on Github
 
-THis is the personal website of Menaka Revel.
+THis is the personal website of Yang Hu.
 
-The copyright of the contents is held by Menaka Revel. 
+The copyright of the contents is held by Yang Hu. 
 
 The code and design of this webpage based on those by Allan Lab @ Leiden University, with minor modifications by Yamazaki Lab.
 
