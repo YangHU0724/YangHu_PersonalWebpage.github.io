@@ -12,7 +12,7 @@ Institute of Industrial Science, The University of Tokyo, Japan
 ## Education
 #### Doctor of Philosophy   
 ##### 10/2020 - 09/2024   
-[Department of Civil Engineering, Graduate School of Engineering, The University of Tokyo, Tokyo, Japan]("https://www.civil.t.u-tokyo.ac.jp/en/"). 
+[Department of Civil Engineering, Graduate School of Engineering, The University of Tokyo, Tokyo, Japan]("https://www.civil.t.u-tokyo.ac.jp/en/"). <br>
 Thesis Title: Flood Impact Assessment with Nighttime Light Remote Sensing Data on a Global Scale.
 #### Master
 ##### 09/2017 - 09/2020
