@@ -1,7 +1,7 @@
 ---
-title: "Menaka Revel - Publications"
+title: "Yang Hu - Publications"
 layout: pagelay
-excerpt: "Menaka Revel -- Publications."
+excerpt: "Yang Hu -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-For a full publication list, see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=p1jmV0sAAAAJ&hl=en).
+For a full publication list, see [below](#full-list) or go to [Google Scholar]("https://scholar.google.com/citations?user=UEhDbhMAAAAJ&hl=en").
 
 ## Highlights
 
