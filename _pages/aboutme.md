@@ -30,14 +30,20 @@ Department of Geography and Planning, Sun-Yat Sen Univeristy, Guangzhou, China.
 ## Research Visit  
 #### Uppsala University, Uppsala, Sweden  
 Host: Prof. Giuliano Di Baldassarre,  Department of Earth Sciences, March 2024
+
 <img 
   src="{{ site.url }}{{ site.baseurl }}/images/picture/Uppsala.jpg" 
   style="width: 40%; border-radius: 8px; margin-top: 10px;" 
-  alt="City of Uppsala"
+  alt="Photo with lab members"
 />
 
 #### University of Arizona, Tucson, United States  
 Host: Prof. Beth Tellman, Social[Pixel] Lab, June 2024
-<img src="{{ site.url }}{{ site.baseurl }}/images/picture/Arizona.jpg" width="20%"/>
+
+<img 
+  src="{{ site.url }}{{ site.baseurl }}/images/picture/Arizona.jpg" 
+  style="width: 40%; border-radius: 8px; margin-top: 10px;" 
+  alt="Photo taken in Beth's lab"
+/>
  
   
