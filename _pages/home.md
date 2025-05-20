@@ -9,7 +9,7 @@ permalink: /
 
 Currently, I am working as a postdoctoral researcher at the [Global Hydrodynamics Lab, Institute of Industrial Science, The University of Tokyo](https://global-hydrodynamics.github.io/). 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/picture/Yang01.jpg" style="width: 80%; border-radius: 8px; margin-top: 10px;" alt=""/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picture/Yang01.jpg" style="width: 80%; border-radius: 20px; margin-top: 10px;" alt=""/>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/picture/lab_gathering_autumn.mp.jpg" style= "width: 80%; border-radius: 8px; margin-top: 10px;" alt="Yamazaki lab"/>
 
