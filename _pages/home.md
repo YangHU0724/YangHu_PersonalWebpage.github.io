@@ -7,7 +7,7 @@ permalink: /
 ---
 # Welcome!
 
-Currently, I am working as a postdoctoral researcher at the [Global Hydrodynamics Lab, Institute of Industrial Science, The University of Tokyo](https://global-hydrodynamics.github.io/). Our studies mainly focus on the dynamics of land waters on the global scale, using modelling, remote sensing, and data integration approach.
+Currently, I am working as a postdoctoral researcher at the [Global Hydrodynamics Lab, Institute of Industrial Science, The University of Tokyo](https://global-hydrodynamics.github.io/). 
 
 
 ## Research Interests
